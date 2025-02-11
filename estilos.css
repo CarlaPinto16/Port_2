@@ -1,0 +1,20 @@
+
+body{ margin: 0px; font-family: verdana; font-size: 13px; color:rgb(104, 255, 4); background-color: rgb(69, 69, 69);}
+#corpo{width: 100%; }
+.ticket{ background-color: rgb(0, 0, 0); border:rgb(104, 255, 4) 1px solid; padding: 20px; border-radius: 20px;box-shadow: 10px 5px 5px rgba(135, 248, 6, 0.691);}
+.numero{font-size: 36px;}
+.nome{font-size: 16px; font-style:italic; border-bottom: rgb(104, 255, 4)1px solid; padding: 10px 0px;}
+.problema{ padding: 10px 0px; border-bottom:  rgb(104, 255, 4)1px solid; }
+.solucao{padding:10px 0px;}
+.botoes{padding:10px 0px; text-align: right;}
+.coluna{float: left; width: 25%; }
+.numero{font-size: 36px;}
+.coluna img{width: 100%;}
+.p10{ padding:10px} 
+textarea{width: 98%; border-radius: 5px; height: 40px; background-color: rgba(255, 255, 255, 0.382);resize: none; color: rgb(0, 0, 0);} 
+input {border:0px; background-color:rgb(104, 255, 4) ; color: rgb(0, 0, 0); cursor: pointer;border: solid 1px rgb(0, 0, 0); border-radius: 3px; box-shadow: 1px 1px 1px rgba(196, 196, 196, 0.503);}
+.ticket a, .ticket a:visited { text-decoration:none; color:rgb(255, 255, 255) ; }
+a { text-decoration: none; background-color:  rgb(104, 255, 4);;}
+#menu{ background-color: rgb(104, 255, 4);}
+
+
